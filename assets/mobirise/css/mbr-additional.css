@@ -8438,7 +8438,7 @@ section.lazy-placeholder:after {
 .cid-rWXo6SDGqZ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background611.jpg");
+  background-image: url("../../../assets/images/background613.jpg");
 }
 .cid-rWXo6SDGqZ .container-fluid {
   padding: 0 3rem;
@@ -8854,13 +8854,4 @@ section.lazy-placeholder:after {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
-}
-.cid-rWXHqtzI4T {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background: linear-gradient(90deg, #1dc8cc, #188ef4);
-}
-.cid-rWXHqtzI4T .mbr-overlay {
-  background: #1dc8cc;
-  background: linear-gradient(90deg, #1dc8cc, #188ef4);
 }
